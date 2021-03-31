@@ -1,1 +1,5 @@
 “new row in the 3.txt file”
+<<<<<<< HEAD
+=======
+“new row in the 3.txt file”
+>>>>>>> branch_2
